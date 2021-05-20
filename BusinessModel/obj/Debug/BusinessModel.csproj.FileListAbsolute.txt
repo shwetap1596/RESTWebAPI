@@ -1,0 +1,42 @@
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\BusinessModel.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\BusinessModel.pdb
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\obj\Debug\BusinessModel.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\obj\Debug\BusinessModel.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\obj\Debug\BusinessModel.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\BusinessModel.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\BusinessModel.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\FluentValidation.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\FluentValidation.ValidatorAttribute.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\FluentValidation.WebApi.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\System.Web.Http.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\FluentValidation.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\FluentValidation.WebApi.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\bin\Debug\System.Web.Http.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\obj\Debug\BusinessModel.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\obj\Debug\BusinessModel.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\BusinessModel\obj\Debug\BusinessModel.pdb
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\FluentValidation.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\FluentValidation.ValidatorAttribute.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\FluentValidation.WebApi.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\System.Web.Http.dll
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\FluentValidation.xml
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\FluentValidation.WebApi.xml
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\AngularProjects\RestWebAPI\BusinessModel\bin\Debug\System.Web.Http.xml

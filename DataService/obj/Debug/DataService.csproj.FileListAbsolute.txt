@@ -1,0 +1,42 @@
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataService.dll.config
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataService.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataService.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\Database.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\EntityFramework.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\Database.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\Database.dll.config
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\DataServiceInterface.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\EntityFramework.xml
+D:\Projects\AngularProjects\RestWebAPI\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI\DataService\obj\Debug\DataService.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\obj\Debug\DataService.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataService.dll.config
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataService.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataService.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\Dapper.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\Database.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\EntityFramework.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\Dapper.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\Database.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\Database.dll.config
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\DataServiceInterface.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\EntityFramework.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\obj\Debug\DataService.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\obj\Debug\DataService.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataService\obj\Debug\DataService.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\Dapper.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\Dapper.xml
+D:\Projects\AngularProjects\RestWebAPI\DataService\bin\Debug\EntityFramework.SqlServer.xml

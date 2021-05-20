@@ -1,0 +1,18 @@
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\bin\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\bin\Debug\DataServiceInterface.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\obj\Debug\DataServiceInterface.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\obj\Debug\DataServiceInterface.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\obj\Debug\DataServiceInterface.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\obj\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI\DataServiceInterface\obj\Debug\DataServiceInterface.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\bin\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\bin\Debug\DataServiceInterface.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\bin\Debug\DataModel.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\bin\Debug\DataModel.pdb
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\obj\Debug\DataServiceInterface.csprojAssemblyReference.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\obj\Debug\DataServiceInterface.csproj.CoreCompileInputs.cache
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\obj\Debug\DataServiceInterface.csproj.CopyComplete
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\obj\Debug\DataServiceInterface.dll
+D:\Projects\AngularProjects\RestWebAPI - Copy\DataServiceInterface\obj\Debug\DataServiceInterface.pdb
