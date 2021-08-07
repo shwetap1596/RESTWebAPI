@@ -63,9 +63,11 @@ namespace RestWebAPI.Controllers
                     ValidateAudience = false,
                     IssuerSigningKey = new SymmetricSecurityKey(symmetricKey),
                     ClockSkew = TimeSpan.Zero//by default it's value will be 5 so if you set expire time 5 minutes then token will expire after 10 minutes
+                    //When you set closkskew = timespan.zero then it will not add 5 minutes extra in your expire time
+                    //It will work based on your expire time
                 };
-
-                var principal = tokenHandler.ValidateToken(token, validationParameters, out _);//This will validate signature and expire time of token.
+                //This will validate signature and expire time of token.
+                var principal = tokenHandler.ValidateToken(token, validationParameters, out _);
 
                 return principal;
             }

@@ -33,7 +33,7 @@ namespace BusinessModel
 
         #endregion
 
-        #region User Defined Methods
+        #region User Defined Method Mapper
         /// <summary>
         /// Mapper to map BusinessRequest object to DataRequest object.
         /// </summary>

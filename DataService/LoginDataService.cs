@@ -64,12 +64,15 @@ namespace DataService
             //}
             //#endregion
             #endregion
+
+            #region Get static data
             List<EmployeeMaster> lstResponse = new List<EmployeeMaster>()
             {
                new EmployeeMaster(){FName="Josheph", LName="Chirstin" },
                new EmployeeMaster(){FName="John", LName="Loard" }
             };
             return lstResponse;
+            #endregion
         }
     }
 }
