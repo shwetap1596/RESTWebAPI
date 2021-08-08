@@ -13,6 +13,9 @@ namespace RestWebAPI.Controllers
         /// <summary>
         /// Get array of string.
         /// </summary>
+        /// <remarks>
+        /// Get All the String Values
+        /// </remarks>
         /// <returns></returns>
         public IEnumerable<string> Get()
         {
